@@ -1,6 +1,6 @@
 <h1 align="left">BOLETO BANCÁRIO - NOVO FATOR DE VENCIMENTO</h1>
 
-| :placard: Vitrine.Dev | VB6_FatorVencimento |
+| :placard: Vitrine.Dev | Fator de Vencimento |
 | -------------  | --- |
 | :sparkles: Nome        | **VB6_FatorVencimento**
 | :label: Tecnologias | VB6
