@@ -5,7 +5,7 @@
 | :sparkles: Nome        | **VB6_FatorVencimento**
 | :label: Tecnologias | VB6
 
-![image](https://user-images.githubusercontent.com/24603753/203857610-008b73fa-488f-430f-914d-99b98a3daa71.png)
+![image](https://user-images.githubusercontent.com/24603753/203857610-008b73fa-488f-430f-914d-99b98a3daa71.png#vitrinedev)
 
 <h2 align="left">Detalhes do projeto</h2>
 
